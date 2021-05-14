@@ -1,5 +1,20 @@
+/*
+Turbo AVR V 2.3
+Author: Ivan Ling
+Desc:
+
+Turbo AVR is a quick utility designed to help students in loading code into 
+Il Matto boards. Information about the Il-Matto board can be found here:
+https://www.ecs.soton.ac.uk/outreach/kits/micro-arcana-series
+	
+*/
+
+
 #include <stdio.h>
 #include <windows.h>
+
+
+
 
 int main( int argc, char *argv[] )  {
 	
