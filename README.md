@@ -7,7 +7,7 @@ To use, put it in the same folder as your project, and then use it by calling "t
 #Mac Users
 
 To use, you must first install avrdude
-'''brew install avrdude'''
+```brew install avrdude```
 
 If you have driver issues, try running the following:
-'''brew install cmake pkg-config hidapi libftdi libusb libusb-compat libelf libserialport'''
+```brew install cmake pkg-config hidapi libftdi libusb libusb-compat libelf libserialport```
