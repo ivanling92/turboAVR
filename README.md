@@ -4,10 +4,12 @@ More information about the Il Matto Board: https://www.ecs.soton.ac.uk/outreach/
 
 To use, put it in the same folder as your project, and then use it by calling "turboAVR yourcode.c" on CMD. Currently doesn't support external libraries. 
 
-#Mac Users
+# Mac Users
 
 To use, you must first install avrdude
+
 ```brew install avrdude```
 
 If you have driver issues, try running the following:
+
 ```brew install cmake pkg-config hidapi libftdi libusb libusb-compat libelf libserialport```
